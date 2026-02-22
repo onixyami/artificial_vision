@@ -1,11 +1,4 @@
-"""
-File name format required:
-matricula_ApellidoNombre.py
-Example: 1030034_CarlosTovar.py
 
-Note: Code, variables, functions, and outputs are in English (as requested).
-Comments can be in Spanish.
-"""
 
 
 # --------------------------------------------------
@@ -359,4 +352,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 
